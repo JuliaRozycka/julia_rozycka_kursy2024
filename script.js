@@ -388,7 +388,7 @@ Grafikuję też jako Vivaldi. Tak. Robię te grafiki - no może nie wszystkie ja
     <img src="Screenshot%202024-01-12%20at%2021.33.36.png" alt="Image 3">
 </div>
 <p class="black-normal-text">
-Po Bicie okazało się, że kurde bardzo lubię to robić i zaczęłam nawet jakoś z tym wiązać przyszłość - może nie żyć z tego no ale still… Robię też 2 kursiki na Udemy z Adobe Illustatora. Oprócz Illustratora znam trochę Photoshopa, AfterEffects no i od biedy Canvę, ale wolę jej unikać XD grafikuje też na uczelnie - robię każdą grupową prezkę, UI do apek, loga do zmyślonych firm iii dużo, dużo więcej.
+Po Bicie okazało się, że kurde bardzo lubię to robić i zaczęłam nawet jakoś z tym wiązać przyszłość - może nie żyć z tego no ale still… Robię też 2 kursiki na Udemy z Adobe Illustatora. Oprócz Illustratora znam trochę Photoshopa, AfterEffects no i od biedy Canvę, ale wolę jej unikać XD grafikuje też na uczelnię - robię każdą grupową prezkę, UI do apek, loga do zmyślonych firm iii dużo, dużo więcej.
 </p>
 
 `
