@@ -18,7 +18,7 @@
     overflow: hidden;
     position: relative;
     height: 100%;
-}
+    overflow-y: auto;}
 
 .modal-header {
     background-color: #1e4095; /* Windows XP blue background color for the header */
