@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+#desktop {
+    background: url('windows_xp_bliss-wide.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.icon {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    cursor: grab;
+}
+
+.icon img {
+    width: auto;
+    height: 80px;
+}
+
+.trash-icon img {
+    width: 70px; /* Adjust the width for the trash can icon */
+    height: auto; /* Adjust the height for the trash can icon */
+}
+
+.mozilla-icon img {
+    width: 70px;
+    height: auto;
+}
+
+.word-icon img {
+    width: auto;
+    height: 80px;
+    margin-bottom: 3px;
+}
+
+.icon span {
+    margin-top: 0;
+    font-size: 12px;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.file {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.file img {
+    width: auto;
+    height: 75px;
+}
+
+.file span {
+    margin-top: 0;
+    font-size: 12px;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    color: #fff;
+    text-shadow: 1px 1px 2px #000;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    display: flex; /* Make the list items flex containers */
+}
+
+li {
+    margin-right: 10px; /* Add some space between file items */
+    margin-left: 20px;
+}
+
+
+.pretty-format {
+    text-align: center;
+    padding: 15px;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+}
+
+.big-pink-text {
+    font-size: 2em;
+    color: #ff69b4;
+    margin-bottom: 20px; /* Add some margin for separation */
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+}
+
+.black-normal-text {
+    text-align: justify;
+    color: #000000;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+}

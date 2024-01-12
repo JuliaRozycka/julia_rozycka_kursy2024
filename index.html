@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="loginstyle.css">
+    <title>Windows XP Login</title>
+</head>
+<body>
+<div id="login-popup">
+    <div class="login-header">
+        Login
+    </div>
+    <div class="login-content">
+        <img src="windowsxp_logo.png" alt="Windows XP Logo" class="windows-logo">
+        <br>
+        <form id="login-form">
+            <label for="username">Username:</label>
+            <input type="text" id="username" name="username" value="jebac" disabled>
+
+            <br>
+
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" placeholder="Enter password">
+
+            <br>
+
+            <button type="button" onclick="attemptLogin()">OK</button>
+        </form>
+        <p id="login-message"></p>
+    </div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="modal.css">
+    <script src="modal.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+    <title>Windows Desktop</title>
+</head>
+<body>
+<div id="desktop">
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            openWelcomeModal();
+        });
+    </script>
+    <div class="icon" id="folder1" ondblclick="openFolder('folder1', folderSuki)" onmousedown="startDrag(event, 'folder1')">
+        <img src="folder-icon.png" alt="Folder 1">
+        <span>Suki</span>
+    </div>
+    <div class="icon" id="folder2" ondblclick="openFolder('folder2', folderAppa)" onmousedown="startDrag(event, 'folder2')">
+        <img src="folder-icon.png" alt="Folder 2">
+        <span>Appa</span>
+    </div>
+    <div class="icon trash-icon" id="trash" ondblclick="openFolder('trash', folderTrash)" onmousedown="startDrag(event, 'trash')">
+        <img src="trash-bin.png" alt="Trash">
+        <span>Recycle Bin</span>
+    </div>
+    <div class="icon word-icon" id="o_mnie" onmousedown="startDrag(event, 'o_mnie')">
+        <img src="word.png" alt="word">
+        <span>o-mnie.doc</span>
+    </div>
+    <div class="icon word-icon" id="dostepnosc" onmousedown="startDrag(event, 'dostepnosc')">
+        <img src="word.png" alt="word">
+        <span>dostępność.doc</span>
+    </div>
+
+    <!-- -->
+
+    <div id="mozilla-icon" class="icon mozilla-icon" ondblclick="openShortcut('Mozilla Firefox')" onmousedown="startDrag(event, 'mozilla-icon')">
+        <img src="mozilla-icon.png" alt="Mozilla Icon" >
+        <span>Mozilla Firefox</span>
+    </div>
+
+    <div id="explorer-icon" class="icon" ondblclick="openShortcut('Windows Explorer')" onmousedown="startDrag(event, 'explorer-icon')">
+        <img src="explorer-icon.png" alt="Explorer Icon" >
+        <span>Windows Explorer</span>
+    </div>
+    <div id="gadu-icon" class="icon" ondblclick="openSecretModal()" onmousedown="startDrag(event, 'gadu-icon')">
+        <img src="gadu-gadu-icon.webp" alt="Gadu Icon" >
+        <span>Gadu-Gadu</span>
+    </div>
+    <div id="mycomp-icon" class="icon" ondblclick="openShortcut('My Comp')" onmousedown="startDrag(event, 'mycomp-icon')">
+        <img src="my-computer-icon.webp" alt="MyComp Icon" >
+        <span>My Computer</span>
+    </div>
+    <div id="bug-icon" class="icon mozilla-icon" ondblclick="openBugModal()" onmousedown="startDrag(event, 'bug-icon')">
+        <img src="question.png" alt="Bug Icon" >
+        <span>Report a bug</span>
+    </div>
+
+    <!-- Add more icons as needed -->
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
+
+
+

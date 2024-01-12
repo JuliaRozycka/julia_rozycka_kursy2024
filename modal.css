@@ -1,0 +1,73 @@
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fefefe;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    height: 50%;
+}
+
+.windows-xp-modal {
+    border: 2px solid #1e4095; /* Windows XP blue border color */
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+    height: 100%;
+}
+
+.modal-header {
+    background-color: #1e4095; /* Windows XP blue background color for the header */
+    color: #fff;
+    padding: 3px;
+    text-align: right;
+}
+
+.modal-pink {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fefefe;
+    border: 1px solid #ff69b4;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.windows-xp-modal-pink {
+    border: 2px solid #ff69b4; /* Windows XP blue border color */
+    border-radius: 8px;
+    overflow: hidden;
+    position: relative;
+}
+
+.modal-header-pink {
+    background-color: #ff69b4; /* Windows XP blue background color for the header */
+    color: #fff;
+    padding: 3px;
+    text-align: right;
+}
+
+.close-btn {
+    cursor: pointer;
+    font-size: 16px;
+}
+
+
+.ok-btn {
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #e5e4e4; /* Gray button background color */
+    color: #1e4095; /* Windows XP blue text color */
+    border: 2px solid #2750b6; /* Windows XP blue border color */
+    border-radius: 4px;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    margin-top: 10px;
+}

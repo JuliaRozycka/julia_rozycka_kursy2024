@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    background-color: #1e4095; /* Windows XP blue background color */
+}
+
+#login-popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #d1d1d1; /* Gray background color */
+    padding: 0;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* Box shadow for the popup */
+}
+
+.login-header {
+    background-color: #2147a7; /* Windows XP blue background color for the header */
+    color: #fff;
+    padding: 10px;
+    text-align: left;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    font-size: 18px;
+    margin-bottom: 0; /* Remove margin at the bottom of the header */
+}
+
+.login-content {
+    text-align: center;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+
+}
+
+.windows-logo {
+    width: 500px;
+    height: auto;
+    margin-bottom: 20px;
+    padding: 30px;
+    background: #5c86ef;
+}
+
+#login-form {
+    display: inline-block;
+}
+
+label, input {
+    margin-bottom: 10px;
+    display: inline-block;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+}
+
+button {
+    padding: 5px;
+    width: 100px;
+    cursor: pointer;
+    background-color: #e5e4e4; /* Gray button background color */
+    color: #1e4095; /* Windows XP blue text color */
+    border: 2px solid #2750b6; /* Windows XP blue border color */
+    border-radius: 4px;
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    margin-top: 10px;
+}
+
+#login-message {
+    margin-top: 10px;
+    color: #1e4095; /* Windows XP blue text color */
+    font-family: "Microsoft Sans Serif", Tahoma, Geneva, sans-serif;
+    font-size: 14px;
+}
+
+
