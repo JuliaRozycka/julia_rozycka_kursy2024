@@ -363,10 +363,10 @@ Do zostania Pax Respem zmotywowała mnie osoba, która pełniła właśnie tę f
 
 doswiadczenie_appa_modal = `
 <p class="black-normal-text">
-Stricte Pax Respowej fuszki nigdy nie miałam. Obyłam KT z Dawidkiem Szsz, gdzie dowiedziałam się dużo o tym jak ta fuszka wygląda, co jeszcze bardziej zachęciło mnie do aplikowania. Dawid wspomniał, że będąc dobrym Pax Respem trzeba być bardzo otwartym na innych i umieć się obchodzić z ludźmi, wydaje mi się, że to dokładnie mnie opisuje. Dołączyłam do BESTu ze względu na ludzi - mimo, że w Bicie nie byłam HR-owcem zorganizowałam u nas formsa Thank you Biciaku, który moim zdaniem wyszedł super - było w nim ponad 50 wpisów, w którym można było komuś anonimowo lub nie podziękować. Sama fuszka Vivaldiego też jest trochę HR-owa, bo często odpowiadam ludziom na wiadomości i rozwiązuję konflikty. Tak jak też wspominałam organizowałam w mojej rodzinnej wsi jasełka, co wiązało się z umiejętnościami zarządzania ludźmi (w tym wypadku wkurwiającymi gimnazjalistami). 
+Stricte Pax Respowej fuszki nigdy nie miałam. Odbyłam KT z Dawidkiem Szsz, gdzie dowiedziałam się dużo o tym jak ta fuszka wygląda, co w sumie jeszcze bardziej zachęciło mnie do aplikowania. Dawid wspomniał, że będąc dobrym Pax Respem trzeba być bardzo otwartym na innych i umieć się obchodzić z ludźmi, wydaje mi się, że to dokładnie mnie opisuje. Dołączyłam do BESTu ze względu na ludzi - mimo, że w Bicie nie byłam HR-owcem zorganizowałam u nas formsa Thank you Biciaku, który moim zdaniem wyszedł super - było w nim ponad 50 wpisów, w którym można było komuś anonimowo (lub nie) podziękować. Sama fuszka Vivaldiego też jest trochę HR-owa, bo często odpowiadam ludziom na wiadomości i rozwiązuję konflikty. Tak jak też wspominałam organizowałam w mojej rodzinnej wsi jasełka, co wiązało się z umiejętnościami zarządzania ludźmi (w tym wypadku wkurwiającymi gimnazjalistami). 
 </p>
 <p class="black-normal-text">
-Z doświadczenia kursowego byłam ofc na kursie w Rzymie, i było to jedno z NAJLEPSZYCH EVER rzeczy na jakie się zdecydowałam. Poznałam mnóstwo ludzi, z którymi mam kontakt do dzisiaj i przeżyłam niesamowite przygody, o których opowiadam kiedy tylko nadarzy się okazja.
+Z doświadczenia kursowego byłam ofc na kursie w Rzymie, i było to jedno z NAJLEPSZYCH EVER rzeczy na jakie się zdecydowałam. Poznałam mnóstwo ludzi, z którymi mam kontakt do dzisiaj i przeżyłam niesamowite przygody, o których opowiadam kiedy tylko nadarzy się okazja. Zobaczyłam od środka jak wygląda taki kurs i jego organizacja.
 </p>
 `
 
