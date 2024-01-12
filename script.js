@@ -375,17 +375,17 @@ dosiwadczenie_suki_modal = `
 Ogólnie to pogodziłam już się z tym że Adobe Illustrator to moja trzecia nerka XD Grafikowałam ofc w BIT2023, a moje wyczyny można znaleźć na fanpage'u BITa czy Instagramie no i na koszulkach czy plakatach - dla przypomnienia wyglądało to tak:
 </p>
 <div class="image-container">
-    <img src="Screenshot%202024-01-12%20at%2021.33.02.png" alt="Image 1">
-    <img src="Screenshot%202024-01-12%20at%2021.33.20.png" alt="Image 2">
-    <img src="Screenshot%202024-01-12%20at%2021.33.36.png" alt="Image 3">
+    <img src="Screenshot%202024-01-12%20at%2022.21.02.png" alt="Image 1">
+    <img src="GJ_2Obszar%20roboczy%209.png" alt="Image 2">
+    <img src="370291499_900670294751071_1466325881444230987_n.png" alt="Image 3">
 </div>
 <p class="black-normal-text">
 Grafikuję też jako Vivaldi. Tak. Robię te grafiki - no może nie wszystkie jak dostaję materiały od innych LBG, ale graficzki które zrobiłam to m.in.:
 </p>
 <div class="image-container">
-    <img src="Screenshot%202024-01-12%20at%2022.21.02.png" alt="Image 1">
-    <img src="GJ_2Obszar%20roboczy%209.png" alt="Image 2">
-    <img src="370291499_900670294751071_1466325881444230987_n.png" alt="Image 3">
+    <img src="Screenshot%202024-01-12%20at%2021.33.02.png" alt="Image 1">
+    <img src="Screenshot%202024-01-12%20at%2021.33.20.png" alt="Image 2">
+    <img src="Screenshot%202024-01-12%20at%2021.33.36.png" alt="Image 3">
 </div>
 <p class="black-normal-text">
 Po Bicie okazało się, że kurde bardzo lubię to robić i zaczęłam nawet jakoś z tym wiązać przyszłość - może nie żyć z tego no ale still… Robię też 2 kursiki na Udemy z Adobe Illustatora. Oprócz Illustratora znam trochę Photoshopa, AfterEffects no i od biedy Canvę, ale wolę jej unikać XD grafikuje też na uczelnie - robię każdą grupową prezkę, UI do apek, loga do zmyślonych firm iii dużo, dużo więcej.
@@ -395,7 +395,7 @@ Po Bicie okazało się, że kurde bardzo lubię to robić i zaczęłam nawet jak
 
 motywacja_suki_modal = `
 <p class="black-normal-text">
-Myślałam, że po Bicie nie będę w stanie spojrzeć na Adobe, ale jak bardzo się myliłam XD okazało się, że zajebiście się bawiłam i była to jedna z najlepszych decyzji w moim życiu. Pewnie ktoś to czyta tę aplikację pomyśli sobie - no dobra, ale jak znowu zostaniesz Grafikiem to co z tego wyniesiesz? Przecież niczego już się nie nauczysz? Actually… Po pierwsze  grafika to taka niekończąca się historia - każdy projekt to nowe pomysły, po drugie chciałabym wykorzystać to czego się nauczyłam na Bicie i  zaaplikować to do nowej fuszki oraz zrealizować pomysły, których nie udało mi się dotychczas zrealizować. 
+Myślałam, że po Bicie nie będę w stanie spojrzeć na Adobe, ale jak bardzo się myliłam XD okazało się, że zajebiście się bawiłam i była to jedna z najlepszych decyzji w moim życiu. Pewnie ktoś to czyta tę aplikację pomyśli sobie - no dobra, ale jak znowu zostaniesz Grafikiem to co z tego wyniesiesz? Przecież niczego już się nie nauczysz? Actually… Po pierwsze  grafika to taka niekończąca się historia - każdy projekt to nowe pomysły, po drugie chciałabym wykorzystać to czego się nauczyłam na Bicie i  zaaplikować to do nowej fuszki oraz zrealizować pomysły, których nie udało mi się dotychczas zrealizować. Prawda jest taka, że kocham to robić i taka praca sprawia mi mnóstwo frajdy <3 
 </p>
 <p class="black-normal-text">Ostatnim powodem i chyba największym są ludzie, z którymi będę mogła pracować - to ludzie motywują mnie do pracy, a szczególnie patrząc na aktualny skład CT, jeszcze bardziej chciałabym tu dołączyć. 
 </p>
