@@ -109,4 +109,5 @@ li {
     border: 1px solid #ddd; /* Optional: Add a border for separation */
     border-radius: 8px; /* Optional: Add border-radius for a rounded appearance */
     margin-right: 10px; /* Optional: Add margin between images */
+    object-fit: cover; /* Maintain aspect ratio and cover the entire container */
 }
